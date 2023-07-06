@@ -12,4 +12,4 @@ Instructions:
 - In the code a place is specified, where you insert the name of your video-file and run the program.
 You will get a window with the RGB-video of the .bag-file derived from the Intel Realsense camera.
 
-/Hashemi et al. 2023
+/Hashemi et. al., Acquisition and usage of robotic surgical data for machine learning analysis. Surg Endosc. 2023 Jun 30
